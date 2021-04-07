@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbdullahAskin
 - 👀 I’m interested in Unity and game development .
-- 🌱 I’m currently learning how to make a entire 2d game on your own.  
+- 🌱 I’m currently working as freelancer on many different type hyper casual projects.  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me +905530975897
 
