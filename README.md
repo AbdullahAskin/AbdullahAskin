@@ -13,9 +13,9 @@
    
    </div>
    <h3 align="center">My Stats:</h3>
-<a href="https://github.com/harundogdu">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=harundogdu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harundogdu&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/abdullahaskin">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdullahaskin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdullahaskin&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 <p align="center" dir="auto"><a href="https://github.com/abdullahaskin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahaskin&amp;theme=algolia" width="460em" alt="abdullahaskin" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahaskin&amp;theme=algolia" style="max-width: 100%;"></a></p>
    
