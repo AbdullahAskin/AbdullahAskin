@@ -9,7 +9,7 @@
    Abdullah Askin | 💻 Unity Game Developer | 🛸 Izmir , TR  <img src="https://media.giphy.com/media/mcsPU3SkKrYDdW3aAU/giphy.gif" width="30">
    </h3>
    <div>
-   <a href="https://wakatime.com/@ancyra"><img src="https://wakatime.com/badge/user/2336bc3f-f896-4a43-a4db-0db400873fb5.svg" /></a>
+   <a href="https://wakatime.com/@BetaMode"><img src="https://wakatime.com/badge/user/d50f2d29-9644-4738-96ac-654f697da7b2.svg" /></a>
    
    </div>
    <h3 align="center">My Stats:</h3>
