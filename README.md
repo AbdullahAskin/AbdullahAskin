@@ -36,7 +36,4 @@
 <a href="https://betamode.netlify.app/#!" target="_blank">
     <img src="https://img.shields.io/badge/-Website-orange" alt="https://betamode.netlify.app/#!">
 </a>
-   
-   ### 🤝🏻 &nbsp;Support Me 🤝
-<a href="https://bmc.link/abdullahahmetaskin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </div>
